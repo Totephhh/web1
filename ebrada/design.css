@@ -1,5 +1,10 @@
 body {
-    background-image: url("1.webp");
-    color: aliceblue;
+    background-image: url("p1.jpg");
+    color: black;
     background-size: cover;
   }
+
+  div.a {
+    text-align: center;
+  }
+  
